@@ -15,7 +15,7 @@
 
 
 ## Запуск программы
-```bash
+
     ./computer_club input_file.txt
 
 Где input_file.txt - файл с входными данными.
